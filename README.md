@@ -6,7 +6,7 @@
 
 ## Description
 
-_{ This project is part of the cirriculum offered by FreeCodeCamp.com. I did it to learn more about React Hooks. Here is link to the video of discussing the project. }_
+_{ This project is part of the cirriculum offered by FreeCodeCamp.com. I did it to learn more about React Hooks. Here is link to the video of discussing the project: https://www.youtube.com/watch?v=ZGOaCxX8HIU&t }_
 
 ## Setup/Installation Requirements
 
