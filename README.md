@@ -11,10 +11,10 @@ _{ This project is part of the cirriculum offered by FreeCodeCamp.com. I did it 
 ## Setup/Installation Requirements
 
 - Copy the repo from Gitub
-  _ Go to into the project folder where you wanted it saved _
-  _ run npm install
-  _ when this is done, run npm start
-  \_ open your internet broswer to localhost:3000
+- Go to into the project folder where you wanted it saved
+- run npm install
+- when this is done, run npm start
+- open your internet broswer to localhost:3000
 
 ## Known Bugs
 
